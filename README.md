@@ -1,4 +1,6 @@
 # Algorithms
+# ABC for FJSP.py
+采用人工蜂群算法求解最小化最大完工时间的FJSP问题。（考虑生产换模等待时间，设备定期维护保养，贴近交期排程等约束）
 
 # PSO.py
 Basic PSO with 23 benchmark functions
